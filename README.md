@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nayananarayana
+- 👋 Hi, I’m @nayana narayan
 - 👀 I’m interested in NGS 
 - 🌱 I’m currently learning cancer genomics
 - 💞️ I’m looking to collaborate with genomics analysis
